@@ -2,7 +2,7 @@
 
 ### WTF?
 
-I wanted to turn [rtlamr](https://github.com/bemasher/rtlamr) into a RESTful sensor for Home Assistant
+I wanted to turn [rtlamr](https://github.com/bemasher/rtlamr) into a RESTful sensor for Home Assistant. See [this blog post](https://node11.com/post/rtlamr-smart-meter-home-assistant/) for more details
 
 ### Contrived Example
 
